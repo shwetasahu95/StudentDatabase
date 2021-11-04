@@ -1,0 +1,11 @@
+C:\Users\Shweta\source\repos\StudentDB\bin\Debug\StudentDB.exe.config
+C:\Users\Shweta\source\repos\StudentDB\bin\Debug\StudentDB.exe
+C:\Users\Shweta\source\repos\StudentDB\bin\Debug\StudentDB.pdb
+C:\Users\Shweta\source\repos\StudentDB\obj\Debug\StudentDB.csproj.AssemblyReference.cache
+C:\Users\Shweta\source\repos\StudentDB\obj\Debug\StudentDB.Properties.Resources.resources
+C:\Users\Shweta\source\repos\StudentDB\obj\Debug\StudentDB.csproj.GenerateResource.cache
+C:\Users\Shweta\source\repos\StudentDB\obj\Debug\StudentDB.csproj.CoreCompileInputs.cache
+C:\Users\Shweta\source\repos\StudentDB\obj\Debug\StudentDB.exe
+C:\Users\Shweta\source\repos\StudentDB\obj\Debug\StudentDB.pdb
+C:\Users\Shweta\source\repos\StudentDB\obj\Debug\StudentDB.StudentInfo.resources
+C:\Users\Shweta\source\repos\StudentDB\obj\Debug\StudentDB.Login.resources
